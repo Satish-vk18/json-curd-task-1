@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "83c2",
+      "username": "satish",
+      "phoneno": "9392378837",
+      "message": "Do or Die",
+      "address": "Hyderabad"
+    },
+    {
+      "id": "1a65",
+      "username": "ramesh",
+      "phoneno": "123456",
+      "message": "ramesh",
+      "address": "ramesh"
+    },
+    {
+      "id": "4da2",
+      "username": "rajesh",
+      "phoneno": "123456789",
+      "message": "qwertyuiop",
+      "address": "asdfghjkl"
+    }
+  ]
+}
